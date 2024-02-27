@@ -1,0 +1,1607 @@
+b3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+cube_link_xb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+No inertial data for link, using mass=1, localinertiadiagonal = 1,1,1, identity local inertial frameb3Warning[examples/Importers/ImportURDFDemo/BulletUrdfImporter.cpp,126]:
+cube_link_yUsing cuda device
+Wrapping the env with a `Monitor` wrapper
+Wrapping the env in a DummyVecEnv.
+Training iteration 0
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 108  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 1
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 109  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 2
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 109  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 3
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 110  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 4
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 109  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 5
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 110  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 6
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 111  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 7
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 110  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 8
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 110  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 9
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 112  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 10
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 109  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 11
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 110  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 12
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 111  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 13
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 111  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 14
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 111  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 15
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 111  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 16
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 112  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 17
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 112  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 18
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 113  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 19
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 112  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 20
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 113  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 21
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 112  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 22
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 112  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 23
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 112  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 24
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 112  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 25
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 113  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 26
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 112  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 27
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 113  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 28
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 112  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 29
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 113  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 30
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 31
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 113  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 32
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 113  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 33
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 113  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 34
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 35
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 36
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 37
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 38
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 39
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 40
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 41
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 42
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 43
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 113  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 44
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 45
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 46
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 113  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 47
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 48
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 49
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 50
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 51
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 52
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 53
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 54
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 55
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 56
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 57
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 58
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 59
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 60
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 61
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 62
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 63
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 64
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 113  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 65
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 66
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 67
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 68
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 113  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 69
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 70
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 113  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 71
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 72
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 73
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 113  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 74
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 75
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 76
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 77
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 78
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 79
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 80
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 81
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 82
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 83
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 84
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 85
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 86
+-----------------------------
+| time/              |      |
+|    fps             | 19   |
+|    iterations      | 1    |
+|    time_elapsed    | 106  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 87
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 88
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 89
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 90
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 91
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 92
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 93
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 113  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 94
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 113  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 95
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 113  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 96
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 97
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 98
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 99
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 100
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 101
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 102
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 103
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 104
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 105
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 106
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 107
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 108
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 109
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 110
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 111
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 112
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 113
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 114
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 115
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 116
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 117
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 118
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 119
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 120
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 121
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 122
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 123
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 124
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 125
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 126
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 127
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 128
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 129
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 130
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 131
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 132
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 133
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 134
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 135
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 136
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 137
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 138
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 139
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 140
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 141
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 142
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 143
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 144
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 145
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 146
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 147
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 148
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 149
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 150
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 151
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 152
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 153
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 154
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 155
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 156
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 157
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 158
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 159
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 160
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 161
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 162
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 163
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 164
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 165
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 166
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 167
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 168
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 169
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 170
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 171
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 172
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 173
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 174
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 175
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 176
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 114  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 177
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 178
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 179
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 180
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 181
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 182
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 183
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 184
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 185
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 186
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 187
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 188
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 189
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 116  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 190
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 191
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 192
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 193
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 194
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 195
+-----------------------------
+| time/              |      |
+|    fps             | 17   |
+|    iterations      | 1    |
+|    time_elapsed    | 115  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 196
+-----------------------------
+| time/              |      |
+|    fps             | 18   |
+|    iterations      | 1    |
+|    time_elapsed    | 109  |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 197
+-----------------------------
+| time/              |      |
+|    fps             | 24   |
+|    iterations      | 1    |
+|    time_elapsed    | 83   |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 198
+-----------------------------
+| time/              |      |
+|    fps             | 24   |
+|    iterations      | 1    |
+|    time_elapsed    | 82   |
+|    total_timesteps | 2048 |
+-----------------------------
+Training iteration 199
+-----------------------------
+| time/              |      |
+|    fps             | 24   |
+|    iterations      | 1    |
+|    time_elapsed    | 82   |
+|    total_timesteps | 2048 |
+-----------------------------

@@ -204,3 +204,5 @@ pyrightconfig.json
 
 # no need for my analysis to clutter up the repo
 *.csv
+# or the models themselves!
+*.zip
