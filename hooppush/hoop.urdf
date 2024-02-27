@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<robot name="hoop">
+  <link name="hoop_link">
+    <visual>
+      <geometry>
+        <cylinder length="0.2" radius="0.15"/>
+      </geometry>
+      <origin xyz="0 0 0.05" rpy="0 0 0"/>
+      <material name="yellow">
+        <color rgba="1 1 0 1"/>
+      </material>
+    </visual>
+  </link>
+</robot>
+
